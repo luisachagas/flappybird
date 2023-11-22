@@ -12,9 +12,9 @@ __Para download:__
    - MacOS
 - É necessário ter GCC instalado.
 
-__Acesso pelo Navegador__
-- Jogue pelo Replit.
-  [Flying Master](https://replit.com/@MARIAAUGUSTA5/FlyingMaster)
+__Acesso pelo Navegador:__
+- Jogue pelo Replit!
+   [Flying Master](https://replit.com/@MARIAAUGUSTA5/FlyingMaster)
 
 ## Instruções de Compilação: 
  
