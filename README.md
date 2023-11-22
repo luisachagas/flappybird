@@ -5,11 +5,16 @@
 
 ![flyingmaster](https://github.com/luisachagas/flyingmaster/assets/129343931/74789dd3-d3d0-4482-b09b-b3e63674d624)
 
-## Requisitos 
+## Requisitos
+__Para download:__
 - As bibliotecas necessárias funcionam para os seguintes sistemas:
    - Linux (Ubuntu, etc)
    - MacOS
 - É necessário ter GCC instalado.
+
+__Acesso pelo Navegador__
+- Jogue pelo Replit.
+  [Flying Master](https://replit.com/@MARIAAUGUSTA5/FlyingMaster)
 
 ## Instruções de Compilação: 
  
