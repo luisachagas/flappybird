@@ -38,8 +38,7 @@ void mover_obstaculo(Obstacle *obstacle, int dx, int dy);
 void desenhar_chao();
 void score(Master *head, Obstacle obstacles[MAX_OBSTACLES]);
 
-int main() {
-      // colocar para apertar uma tecla antes de começar o jogo  
+int main() { 
   Master *head = NULL;
   Master *temp = (Master *)malloc(sizeof(Master));
 
